@@ -1,0 +1,9 @@
+.bg-header{background-color: #D9F0FF;}
+
+.bg-main{background-color: #83C9F4;}
+
+.bg-btn{background-color: #6F73D2 !important; color: white !important; border-color:#6F73D2 !important; font-size: 20px; width: 200px;}
+
+.bg-btn:hover{background-color: #D9F0FF !important; color:#6F73D2 !important; }
+
+.tlt-color{color:#7681B3 !important;}
