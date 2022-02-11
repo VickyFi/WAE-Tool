@@ -11,5 +11,5 @@ To test this locally you must:
 - On Windows Command Prompt, use this command: set DEBUG=wae-tool:* & npm start
 - On Windows PowerShell, use this command: $env:DEBUG='wae-tool:*'; npm start
 
-Then, load http://localhost:3000/ in your browser to access the WAE Tool.
+Then, load http://localhost:8080/ in your browser to access the WAE Tool.
 
